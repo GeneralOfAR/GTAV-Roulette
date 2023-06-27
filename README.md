@@ -9,4 +9,6 @@ cd GTAV-Roulette
 pip3 install -r requirements.txt
 ```
 
-## Recommended rigger for 1.67: Wealth Booster
+## Info
+Recommended rigger for 1.67: Wealth Booster
+Run with python idle
